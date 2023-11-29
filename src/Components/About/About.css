@@ -1,0 +1,17 @@
+.about{
+    display: flex;
+}
+.about img{
+    height: 400px;
+    width: 400px;
+}
+.Text {
+    padding-top: 100px;
+    margin-left: 200px;
+    font-size: 16px;
+
+}
+.Text span{
+    font-size: 30px;
+    
+}

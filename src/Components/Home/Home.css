@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+
+    
+}
+img{
+    height: 400px;
+    width: 400px;
+    padding-top: 30px;
+}
+.text  {
+        /* display: flex; */
+        align-items: center;
+        margin-left: 40%;
+        font-size: 30px;
+        padding-top: 10%;
+}
+.text h6{
+    margin-left: 80px;
+    margin-top: -20px;
+    
+}
+.text button{
+    background-color: brown;
+    color: black;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+.img2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
